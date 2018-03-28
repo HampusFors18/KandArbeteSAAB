@@ -2,6 +2,6 @@ package AnalysProgram;
 
 public class ReadBinary {
     //important comment
-	System.out.println("Very important message")
+	System.out.println("Important message")
     private int importantVariable;
 }
