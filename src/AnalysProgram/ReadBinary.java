@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class ReadBinary {
+<<<<<<< HEAD
 	public static void main (String [] args) {
 
 		try {
@@ -32,3 +33,9 @@ public class ReadBinary {
 		
 	}
 	}
+=======
+    //important comment
+	System.out.println("Important message... Very importante")
+    private int importantVariable;
+}
+>>>>>>> branch 'master' of https://github.com/HampusFors18/KandArbeteSAAB
