@@ -24,7 +24,7 @@ public class ReadBinary {
 			
 		}
 		catch (FileNotFoundException e1) {
-			System.err.println("Error - File not found");
+			System.err.println("Error - File is not found");
 			
 		}
 		catch (IOException e2) {
