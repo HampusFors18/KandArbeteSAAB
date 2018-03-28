@@ -1,0 +1,11 @@
+# compiled class files
+*.class
+
+#log files
+*.log
+
+#XML files
+*.xml
+
+#Idea files
+*.iml
