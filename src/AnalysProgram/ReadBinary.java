@@ -31,7 +31,6 @@ public class ReadBinary {
 			for(int i = 0; i < 49; i++) {
 				System.out.println(String.format("0x%02X", Byte.toUnsignedInt(InData[i])));
 			}
-			System.out.print(InData);
 			
 			in.close();
 			
